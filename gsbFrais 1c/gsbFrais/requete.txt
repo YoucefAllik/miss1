@@ -1,0 +1,1 @@
+SELECT * FROM `fichefrais` WHERE dateModif='2019-03-08';
